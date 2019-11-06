@@ -14,4 +14,4 @@ yarn dev (npm run dev)
 - react@experimental
 - react-dom@experimental
 
-Special thanks to [this video]('https://www.youtube.com/watch?v=fTFoBr5LJGE') from Ben Awad
+Special thanks to [this video](https://www.youtube.com/watch?v=fTFoBr5LJGE) from Ben Awad
