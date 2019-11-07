@@ -8,7 +8,7 @@ const resource = createResource()
 function App() {
   return (
     <main>
-      <h1>Hello Suspense!!!</h1>
+      <h1>Hello Suspense!!</h1>
       <Suspense
         fallback={
           <div>
